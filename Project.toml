@@ -1,0 +1,11 @@
+name = "ISL_jll"
+uuid = "9a84b867-ccd3-531b-bb38-095e36150902"
+version = "0.22.0+0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+GMP_jll = "781609d7-10c4-51f6-84f2-b8444358ff6d"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+
+[compat]
+julia = "1.0"

@@ -1,0 +1,113 @@
+[[ISL]]
+arch = "aarch64"
+git-tree-sha1 = "a040faf3dce770382a137ca580011022b3e2e6ae"
+libc = "glibc"
+os = "linux"
+
+    [[ISL.download]]
+    sha256 = "897ac64222e4caa921ba4ba981ac2c0b61eef413f8b6f973c467e29a1e637341"
+    url = "https://github.com/JuliaBinaryWrappers/ISL_jll.jl/releases/download/ISL-v0.22.0+0/ISL.v0.22.0.aarch64-linux-gnu.tar.gz"
+[[ISL]]
+arch = "aarch64"
+git-tree-sha1 = "2893a796f70481261d9ad9518a6711bca830b751"
+libc = "musl"
+os = "linux"
+
+    [[ISL.download]]
+    sha256 = "06583afe694b97d8bb47df2d04ee9b780b8895e998763daa8909e65b5976194d"
+    url = "https://github.com/JuliaBinaryWrappers/ISL_jll.jl/releases/download/ISL-v0.22.0+0/ISL.v0.22.0.aarch64-linux-musl.tar.gz"
+[[ISL]]
+arch = "armv7l"
+git-tree-sha1 = "f104993fbc1d4e3e021c3c2f7d23fcd877ca6bdb"
+libc = "glibc"
+os = "linux"
+
+    [[ISL.download]]
+    sha256 = "82bb784f983bdaecaf277ad5bf891f4609aa344f9b97c9c6a0c16d7dca2fe9a4"
+    url = "https://github.com/JuliaBinaryWrappers/ISL_jll.jl/releases/download/ISL-v0.22.0+0/ISL.v0.22.0.armv7l-linux-gnueabihf.tar.gz"
+[[ISL]]
+arch = "armv7l"
+git-tree-sha1 = "0a4a253564f010c73fe0fed07705aedeeb37d91c"
+libc = "musl"
+os = "linux"
+
+    [[ISL.download]]
+    sha256 = "881abfe60546f1734358fff22f89ced7331c3794b8541890564685f00aa61ee9"
+    url = "https://github.com/JuliaBinaryWrappers/ISL_jll.jl/releases/download/ISL-v0.22.0+0/ISL.v0.22.0.armv7l-linux-musleabihf.tar.gz"
+[[ISL]]
+arch = "i686"
+git-tree-sha1 = "bf629f6294d1ec5f28a1a9655f48fdc09223b380"
+libc = "glibc"
+os = "linux"
+
+    [[ISL.download]]
+    sha256 = "d572272cbaec2b1a6182521c5167d3f1034f81652a9d1503e5c3b7e5bb56a3e4"
+    url = "https://github.com/JuliaBinaryWrappers/ISL_jll.jl/releases/download/ISL-v0.22.0+0/ISL.v0.22.0.i686-linux-gnu.tar.gz"
+[[ISL]]
+arch = "i686"
+git-tree-sha1 = "06d4fc540b90a3410ac33b3c69840f5bdfb95ffe"
+libc = "musl"
+os = "linux"
+
+    [[ISL.download]]
+    sha256 = "d3589c268137d9254dc5bd3414741951d29b88777ce1cf58dfc74d75e7c0bbbc"
+    url = "https://github.com/JuliaBinaryWrappers/ISL_jll.jl/releases/download/ISL-v0.22.0+0/ISL.v0.22.0.i686-linux-musl.tar.gz"
+[[ISL]]
+arch = "i686"
+git-tree-sha1 = "42634321a638cb3ef0921fbd25a9f02d2e9630b0"
+os = "windows"
+
+    [[ISL.download]]
+    sha256 = "b83affc8256c46a2f8d8f97c415f4654f51ace2fc73f6963fb6d7e61b202cda0"
+    url = "https://github.com/JuliaBinaryWrappers/ISL_jll.jl/releases/download/ISL-v0.22.0+0/ISL.v0.22.0.i686-w64-mingw32.tar.gz"
+[[ISL]]
+arch = "powerpc64le"
+git-tree-sha1 = "258336ff86b6a94370201eac6937ec071ab6181f"
+libc = "glibc"
+os = "linux"
+
+    [[ISL.download]]
+    sha256 = "a015ac968f8b7ab7d8f1bb850babaaeef2fe2663d787f2d10bd6f452068748fa"
+    url = "https://github.com/JuliaBinaryWrappers/ISL_jll.jl/releases/download/ISL-v0.22.0+0/ISL.v0.22.0.powerpc64le-linux-gnu.tar.gz"
+[[ISL]]
+arch = "x86_64"
+git-tree-sha1 = "3e2ac1cb121c6ee281a4f149381dd1edcc0ed0c8"
+os = "macos"
+
+    [[ISL.download]]
+    sha256 = "cf246d9ff6a0bd138d4f33f2d17a20392656d6b8f4232bec1ba5c571d0a4d1d5"
+    url = "https://github.com/JuliaBinaryWrappers/ISL_jll.jl/releases/download/ISL-v0.22.0+0/ISL.v0.22.0.x86_64-apple-darwin14.tar.gz"
+[[ISL]]
+arch = "x86_64"
+git-tree-sha1 = "5bcde11585988a0ed47ee0924681004661ed0d0c"
+libc = "glibc"
+os = "linux"
+
+    [[ISL.download]]
+    sha256 = "eeb763f9cb97dd205c553d0a249f0a1c488fd810ac4f39009af6755dcca7f922"
+    url = "https://github.com/JuliaBinaryWrappers/ISL_jll.jl/releases/download/ISL-v0.22.0+0/ISL.v0.22.0.x86_64-linux-gnu.tar.gz"
+[[ISL]]
+arch = "x86_64"
+git-tree-sha1 = "2b26c7c9daaca0fd71eb7e66461ea4c26f9cb349"
+libc = "musl"
+os = "linux"
+
+    [[ISL.download]]
+    sha256 = "abef9df7ef45c8f012248ad748f3a1452f2a211a48abc85e802292a4e2d0ebfb"
+    url = "https://github.com/JuliaBinaryWrappers/ISL_jll.jl/releases/download/ISL-v0.22.0+0/ISL.v0.22.0.x86_64-linux-musl.tar.gz"
+[[ISL]]
+arch = "x86_64"
+git-tree-sha1 = "d8d0beae0f922df9c3ba9ca844ded027960df888"
+os = "freebsd"
+
+    [[ISL.download]]
+    sha256 = "4e16b63810a7cdf9ed6f8b30575ba8c0ab08a193614684205e110e46a5a040d1"
+    url = "https://github.com/JuliaBinaryWrappers/ISL_jll.jl/releases/download/ISL-v0.22.0+0/ISL.v0.22.0.x86_64-unknown-freebsd11.1.tar.gz"
+[[ISL]]
+arch = "x86_64"
+git-tree-sha1 = "c6e407529899a9ffb499800b790a1e8ff988a81d"
+os = "windows"
+
+    [[ISL.download]]
+    sha256 = "5cbfe8164dfedebdc32fc2551ea3c195e19907cf55c78b1d4bd8620ea2a4b48f"
+    url = "https://github.com/JuliaBinaryWrappers/ISL_jll.jl/releases/download/ISL-v0.22.0+0/ISL.v0.22.0.x86_64-w64-mingw32.tar.gz"
